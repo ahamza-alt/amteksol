@@ -1,0 +1,5 @@
+[
+  {"id":"T-1001","job_id":"J-1001","phase":"Civil Works","name":"C2 / 2B FTG","status":"In Progress"},
+  {"id":"T-1002","job_id":"J-1001","phase":"Civil Works","name":"TRENCH","status":"Planned"},
+  {"id":"T-1003","job_id":"J-1002","phase":"Electrical Works","name":"CBL HAUL","status":"Planned"}
+]
