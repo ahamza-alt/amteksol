@@ -1,4 +1,0 @@
-[
-  {"id":"Q-1001","quote_number":"Q-1001","client":"Metro Civil Group","site":"Smith St Intersection Upgrade","status":"Awarded","scope":"Signals upgrade and civil installation works","items":[{"description":"C2 / 2B Footings","qty":2,"rate":18500},{"description":"Trenching and backfill","qty":1,"rate":12600}],"created_at":"2026-04-29T00:00:00.000Z"},
-  {"id":"Q-1002","quote_number":"Q-1002","client":"EastGrid Services","site":"Brown Rd Signal Upgrade","status":"Sent","scope":"Electrical upgrade and cabling works","items":[{"description":"Cable haul","qty":1,"rate":22750},{"description":"Pit connections","qty":4,"rate":3200}],"created_at":"2026-04-29T00:00:00.000Z"}
-]
