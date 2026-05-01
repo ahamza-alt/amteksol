@@ -1,4 +1,0 @@
-[
-  {"id":"J-1001","job_number":"J-1001","quote_id":"Q-1001","client":"Metro Civil Group","site":"Smith St Intersection Upgrade","status":"Active","current_phase":"Civil Works","manager":"Daniel Harper","progress":42},
-  {"id":"J-1002","job_number":"J-1002","client":"EastGrid Services","site":"Brown Rd Signal Upgrade","status":"Planned","current_phase":"Electrical Works","manager":"Amelia Rose","progress":18}
-]
